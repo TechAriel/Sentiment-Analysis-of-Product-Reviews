@@ -46,7 +46,9 @@ After installing the project, you can run the sentiment analysis script as follo
 4. The script will preprocess the reviews, perform sentiment analysis, and print out the sentiment results for the first few reviews. Additionally, it will compare the similarity between two selected reviews.
 
 ### Screenshots
+![Sentiment Analysis](https://github.com/TechAriel/finalCapstone/commit/b8a2acfea10d7f459fdacf87d4fb1f726765f8f2#commitcomment-140078907)
 
+![Similarity test](https://github.com/TechAriel/finalCapstone/commit/b8a2acfea10d7f459fdacf87d4fb1f726765f8f2#commitcomment-140078931)
 
 
 ## Credits
