@@ -14,11 +14,11 @@ To run this project locally, you need to have Python installed on your machine. 
 
 1. Clone the repository to your local machine:
     ```
-    git clone https://github.com/yourusername/yourprojectrepository.git
+    git clone https://github.com/TechAriel/Sentiment-Analysis-of-Product-Reviews.git
     ```
 2. Navigate to the project directory:
     ```
-    cd yourprojectdirectory
+    cd Sentiment-Analysis-of-Product-Reviews
     ```
 3. Install the required dependencies:
     ```
